@@ -1,4 +1,4 @@
-### A simple app to process some transaction using kafka and py-flink
+### Some simple flows using dagster
 
 
 ### To bring up the dagster serve, un in root mode on Unix Based System
